@@ -50,6 +50,7 @@ It covers topics including, but not limited to:
 Apps that support mental health by helping users manage anxiety, depression, stress, sleep, and emotional resilience. These tools are not substitutes for professional care, but they can complement therapy or serve as entry points to self-reflection and support.
 
 * [Calm](https://www.calm.com) – Provides guided meditations, sleep stories, and breathing exercises to help reduce anxiety and improve sleep quality.
+* [cogload](https://github.com/drakulavich/cogload) – A command-line tool and Claude Code plugin for developers who work with AI coding agents. It scores each hour of Claude Code work from 0 to 100 using parallel sessions, prompt pace, streaks without a break and late-night work, so you can see when a day got too heavy, and the plugin holds your prompts for a ten-minute rest after 40 minutes without a break. Open source; it reads only local files and keeps no message text.
 * [Cope Notes](https://www.copenotes.com) – Sends daily text messages with positive thoughts, exercises, and journaling prompts to help combat depression and anxiety. Content is reviewed by mental health professionals.
 * [EmoBay](https://emobay.org) – An AI-driven digital mental health platform offering 24/7 conversational support, mood tracking, and crisis-response guidance via a chatbot interface.
 * [eQuoo](https://www.equoogame.com) – A game-based app that teaches psychological skills to improve emotional fitness and resilience through interactive storytelling.
@@ -68,7 +69,6 @@ Apps that support mental health by helping users manage anxiety, depression, str
 * [Wrabit](https://writewithwrabit.com) – A writing app designed to help you build a daily journaling habit while contributing anonymously to mental health research.
 * [Wysa](https://www.wysa.io) – An AI-powered chatbot that uses evidence-based techniques like CBT and mindfulness to support users in managing stress, anxiety, and depression.
 * [Youper](https://www.youper.ai) – An AI-powered emotional health assistant that guides you through conversations and activities based on psychological techniques.
-* [zapara](https://github.com/drakulavich/zapara) – A command-line tool for developers who work with AI coding agents. It scores each hour of Claude Code work from 0 to 100 using parallel sessions, prompt pace, streaks without a break and late-night work, so you can see when a day got too heavy and it is time to rest. Open source; it reads only local files and keeps no message text.
 
 ---
 
